@@ -28,6 +28,6 @@
 3. [KDD 20] ** Preserving dynamic attention for long-term spatial-temporal prediction** [[paper]]()
 
 
-# Before 2020
+## Before 2020
 1. [NeurIPS 16] **An interpretable predictive model for healthcare using reverse time attention mechanism** [[paper]]()
 2. [MLHC 17] **Clinical intervention prediction and understanding with deep neural networks**[[paper]]()
