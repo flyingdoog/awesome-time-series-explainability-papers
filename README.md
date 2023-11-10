@@ -10,6 +10,8 @@
 
 ## 2024
 1. [Openreview 23] **Explaining Time Series via Contrastive and Locally Sparse Perturbations** [[paper]](https://openreview.net/forum?id=qDdSRaOiyb)
+2. [NeurIPS 23] **Encoding Time-Series Explanations through Self-Supervised Model Behavior Consistency** [[paper]](https://openreview.net/forum?id=yEfmhgwslQ)
+
 
 ## 2023
 1. [ICLR 23] **Temporal dependencies in feature importance for time series prediction** [[paper]]()
